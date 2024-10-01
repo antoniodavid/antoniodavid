@@ -19,10 +19,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
-- 🌱 I'm currently learning: **📚 Exploring Zustand**
-- 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
-- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
+- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using Odoo**
+- 💬 Ask me about: **💡 JavaScript, Owl, Python, Odoo**
 
  **<h3 align="left">Skills</h3>**
 
