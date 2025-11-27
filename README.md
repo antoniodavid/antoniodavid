@@ -1,54 +1,80 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E44AD&height=200&section=header&text=Hola,%20soy%20Antonio%20David&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20de%20Software%20%7C%20Odoo%20Expert&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=220&section=header&text=Antonio%20David&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Senior%20Odoo%20Architect%20%7C%20AI%20%26%20MCP%20Innovator&descAlignY=55&descAlign=50&fontColor=ffffff"/>
 </div>
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 About Me
 
-¡Hola! Soy un Ingeniero de Software apasionado por el desarrollo de soluciones empresariales robustas. Actualmente me especializo en **Odoo (v16)**, ayudando a empresas a optimizar sus flujos de trabajo mediante implementaciones a medida y migraciones.
+**Senior Odoo Architect** & **Open Source Contributor** with a passion for bridging the gap between robust ERP systems and Agentic AI.
 
-* 🔭 Actualmente trabajando en: **Implementaciones y personalizaciones avanzadas en Odoo 16.**
-* 🌱 Aprendiendo constantemente: Nuevas arquitecturas en **Odoo.sh** y optimización de **PostgreSQL**.
-* 🤝 Contribuciones: Participo activamente en la **OCA (Odoo Community Association)**.
-* ⚡ Dato curioso: Me fascinan los dinosaurios 🦖 y puedo hablar horas sobre si el T-Rex tenía plumas o no.
+I specialize in **complex financial integrations** and **localization** within the Odoo ecosystem. As an active contributor to the **OCA (Odoo Community Association)**, I lead initiatives like the **Bill.com integration** for `l10n-usa` and maintain critical modules for Mexican localization.
+
+Beyond ERPs, I am pioneering the **Model Context Protocol (MCP)** to build intelligent developer tools that empower AI agents to understand and refactor large codebases.
+
+- 🔭 **Current Focus**: Architecting scalable financial synchronizations for Odoo (OCA/l10n-usa) and building AI-powered migration tools.
+- 🌱 **Exploring**: Advanced RAG patterns for code analysis and **Odoo Owl** framework optimizations.
+- 🤝 **Community**: Active maintainer in `OCA/l10n-usa` and `OCA/l10n-mx`.
+- ⚡ **Philosophy**: "Automate the boring, architect the complex."
 
 ---
 
-### 🛠️ Tech Stack & Herramientas
+### 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white" />
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <!-- Frontend & AI -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MCP-00B4D8?style=flat-square&logo=openai&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoniodavid&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Estadísticas de Antonio David" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniodavid&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="Lenguajes de Antonio David" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniodavid&theme=radical&hide_border=true" alt="Racha de Antonio David" />
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </div>
 
 ---
 
-### 📫 Conectemos
+### 🏆 Featured Contributions
 
-<p align="center">
-  <a href="https://linkedin.com/in/TU-USUARIO" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Antonio David en LinkedIn" /></a>
-  <a href="mailto:TU-EMAIL@GMAIL.COM" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<div align="center">
+  <a href="PORTFOLIO.md">
+    <img src="https://img.shields.io/badge/📂_View_Full_Portfolio-0077B6?style=for-the-badge&logo=read-the-docs&logoColor=white" height="40" />
+  </a>
+</div>
+
+<br/>
+
+| Project                                                                         | Role               | Impact                                                                                   |
+| :------------------------------------------------------------------------------ | :----------------- | :--------------------------------------------------------------------------------------- |
+| **[OCA/l10n-usa#166](https://github.com/OCA/l10n-usa/pull/166)**                | **Lead Architect** | Designed the **Bill.com** 2-way sync engine, handling AP/AR automation for US companies. |
+| **[OpenUpgrade MCP](https://github.com/antoniodavid/openupgrade-analyzer-mcp)** | **Creator**        | Built an AI-powered AST analyzer to detect Odoo API deprecations during migrations.      |
+| **[OdooDevForge](https://github.com/antoniodavid/odoodevforge)**                | **Maintainer**     | CLI tool for scaffolding production-ready, OCA-compliant Odoo environments.              |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antoniodavid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00B4D8&icon_color=0077B6" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniodavid&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=00B4D8" height="180" alt="Languages" />
+</div>
+
+---
+
+### 📫 Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/antonio-david-ruban-espinal-921804b9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:antoniodavid8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/adruban87" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
+</div>
