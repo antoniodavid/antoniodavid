@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=220&section=header&text=Antonio%20David&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Senior%20Odoo%20Architect%20%7C%20AI%20%26%20MCP%20Innovator&descAlignY=55&descAlign=50&fontColor=ffffff"/>
+  <img src="https://camo.githubusercontent.com/91be1bae3379598e61df78d3742413b98f8a3e709e1197ee7c29c9dbe057a9e6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d384534344144266865696768743d3230302673656374696f6e3d68656164657226746578743d486f6c612c253230736f79253230416e746f6e696f253230446176696426666f6e7453697a653d373026616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d333826646573633d496e67656e6965726f2532306465253230536f6674776172652532302537432532304f646f6f2532304578706572742664657363416c69676e593d35352664657363416c69676e3d3530" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=8E44AD&amp;height=200&amp;section=header&amp;text=Hola,%20soy%20Antonio%20David&amp;fontSize=70&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Ingeniero%20de%20Software%20%7C%20Odoo%20Expert&amp;descAlignY=55&amp;descAlign=50&amp;fontColor=ffffff" style="max-width: 100%;">
 </div>
 
 ### 👨‍💻 About Me
