@@ -1,39 +1,99 @@
-![👋 Hi, my name is Antonio Ruban](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" width="100%" style="border-radius: 8px; margin-bottom: 20px;" />
+  
+  <h1 style="color: #212529; font-weight: 700; margin-bottom: 10px;">Antonio Ruban</h1>
+  <h3 style="color: #714B67; font-weight: 600; margin-top: 0;">Senior Odoo Engineer | AI & MCP Architect</h3>
+  
+  <p style="max-width: 600px; color: #666;">
+    Architecting scalable ERP solutions and bridging the gap between business logic and Agentic AI. 
+    Specialized in complex financial integrations, localization, and developer tooling.
+  </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=antoniodavid&label=Profile%20views&color=0e75b6&style=flat)
-
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Antonio Ruban
-      </h1>
-    </summary>
-  </ul>
+  <div style="margin-top: 20px;">
+    <a href="https://www.linkedin.com/in/antonio-david-ruban-espinal-921804b9" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+    </a>
+    <a href="https://github.com/antoniodavid" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-212529?style=for-the-badge&logo=github&logoColor=white" height="28" />
+    </a>
+    <a href="mailto:antoniodavid8@gmail.com">
+      <img src="https://img.shields.io/badge/Email-017E84?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+    </a>
+  </div>
 </div>
 
-**<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://www.linkedin.com/in/antonio-david-ruban-espinal-921804b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/adruban87" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/antoniodavid" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<hr style="border-color: #e9ecef; margin: 30px 0;" />
 
- **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+### 🏗️ Engineering Focus
 
-**<h3 align="left">Rapid Fire</h3>**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 style="color: #714B67;">Enterprise ERP Architecture</h4>
+      <p>Delivering high-performance Odoo implementations with a focus on financial accuracy and seamless integration.</p>
+      <ul>
+        <li><strong>Complex Integrations:</strong> Bill.com, EDI, Payment Gateways.</li>
+        <li><strong>Localization:</strong> Deep expertise in <code>l10n-mx</code> and <code>l10n-usa</code>.</li>
+        <li><strong>Performance:</strong> Optimizing ORM queries and PostgreSQL for high-volume databases.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 style="color: #017E84;">Agentic AI & Tooling</h4>
+      <p>Pioneering the use of the <strong>Model Context Protocol (MCP)</strong> to empower AI agents with real-time codebase intelligence.</p>
+      <ul>
+        <li><strong>MCP Servers:</strong> Creating bridges between LLMs and Odoo/Postgres.</li>
+        <li><strong>Developer Experience:</strong> Building tools like <code>odoodevforge</code> to accelerate development cycles.</li>
+        <li><strong>Owl Framework:</strong> Modernizing Odoo's frontend with reactive components.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using Odoo**
-- 💬 Ask me about: **💡 JavaScript, Owl, Python, Odoo**
+<br />
 
- **<h3 align="left">Skills</h3>**
+### 🏆 Selected Contributions
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="32" alt="Django" style="margin-right: 4px"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="32" alt="FastAPI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="32" alt="Angular" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="32" alt="Flutter" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="32" alt="Postman" style="margin-right: 4px"></div>
+> [!NOTE]
+> Active contributor to the **Odoo Community Association (OCA)**, focusing on standardizing US localization and financial tools.
 
- **<h3 align="left">GitHub Stats</h3>**
+- **[OCA/l10n-usa#166](https://github.com/OCA/l10n-usa/pull/166) - Bill.com Integration**:
+  Lead architect for the Bill.com synchronization module. Handles complex AP/AR workflows, payment status updates, and multi-company environments.
+- **[antoniodavid/openupgrade-analyzer-mcp](https://github.com/antoniodavid/openupgrade-analyzer-mcp)**:
+  An MCP server designed to analyze Odoo modules for migration compatibility, leveraging AI to detect deprecated API usage.
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=antoniodavid&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=antoniodavid&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
+- **[antoniodavid/v0-gantt-view-design](https://github.com/antoniodavid/v0-gantt-view-design)**:
+  Experimental UI/UX work bringing modern, reactive Gantt views to business applications using TypeScript and Bootstrap 5.
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniodavid&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
+<br />
 
+### 🛠️ Technical Arsenal
+
+<div align="left">
+  <!-- ERP Core -->
+  <img src="https://img.shields.io/badge/Odoo_14--18-714B67?style=flat-square&logo=odoo&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" height="25" />
+  
+  <br />
+  
+  <!-- Integrations & Cloud -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" height="25" />
+
+  <br />
+  
+  <!-- Frontend & AI -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Odoo_Owl-714B67?style=flat-square&logo=odoo&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-017E84?style=flat-square&logo=openai&logoColor=white" height="25" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antoniodavid&show_icons=true&theme=transparent&title_color=714B67&text_color=212529&icon_color=017E84&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniodavid&layout=compact&theme=transparent&title_color=714B67&text_color=212529&hide_border=true" height="150" alt="langs" />
+</div>
