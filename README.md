@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=714B67&height=220&section=header&text=Antonio%20David&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Senior%20Odoo%20Architect%20%7C%20AI%20%26%20MCP%20Innovator&descAlignY=55&descAlign=50&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8E44AD&height=200&section=header&text=Hi,%20I%27m%20Antonio%20David&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Odoo%20Expert&descAlignY=55&descAlign=50"/>
 </div>
 
 ### 👨‍💻 About Me
@@ -26,20 +26,18 @@ Beyond standard development, I am pushing the boundaries of developer tooling by
 ### 🛠️ Technical Arsenal
 
 <div align="center">
-  <!-- Core -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white" />
   <br/>
-  <!-- Frontend & AI -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MCP-017E84?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <br/>
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-017E84?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
 ---
