@@ -18,7 +18,7 @@ Beyond standard development, I am pushing the boundaries of developer tooling by
 
 - 🔭 **Current Focus**: Architecting scalable financial synchronizations and building AI-powered migration tools.
 - 🌱 **Exploring**: Advanced RAG patterns for code analysis and **Odoo Owl** framework optimizations.
-- 🤝 **Community**: Active maintainer in `OCA/l10n-usa` and `OCA/delivery-carrier`.
+- 🤝 **Community**: Active collaborator in `OCA/l10n-usa` and `OCA/delivery-carrier`.
 - ⚡ **Philosophy**: "Automate the boring, architect the complex."
 
 ---
@@ -63,8 +63,14 @@ Beyond standard development, I am pushing the boundaries of developer tooling by
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoniodavid&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=714B67&text_color=212529&icon_color=017E84" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniodavid&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=714B67&text_color=212529" height="180" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antoniodavid&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9&icon_color=2dd4bf&border_color=30363d" height="180" alt="Estadísticas de Antonio David" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniodavid&layout=compact&hide_border=true&langs_count=6&hide=java,php,html,css&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9&border_color=30363d" height="180" alt="Lenguajes de Antonio David" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniodavid&hide_border=true&background=0d1117&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="Racha de Antonio David" />
 </div>
 
 ---
