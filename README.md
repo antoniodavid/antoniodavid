@@ -1,18 +1,24 @@
 <div align="center">
-  <img src="https://camo.githubusercontent.com/91be1bae3379598e61df78d3742413b98f8a3e709e1197ee7c29c9dbe057a9e6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d384534344144266865696768743d3230302673656374696f6e3d68656164657226746578743d486f6c612c253230736f79253230416e746f6e696f253230446176696426666f6e7453697a653d373026616e696d6174696f6e3d66616465496e26666f6e74416c69676e593d333826646573633d496e67656e6965726f2532306465253230536f6674776172652532302537432532304f646f6f2532304578706572742664657363416c69676e593d35352664657363416c69676e3d3530" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=8E44AD&amp;height=200&amp;section=header&amp;text=Hola,%20soy%20Antonio%20David&amp;fontSize=70&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Ingeniero%20de%20Software%20%7C%20Odoo%20Expert&amp;descAlignY=55&amp;descAlign=50&amp;fontColor=ffffff" style="max-width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=714B67&height=220&section=header&text=Antonio%20David&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Senior%20Odoo%20Architect%20%7C%20AI%20%26%20MCP%20Innovator&descAlignY=55&descAlign=50&fontColor=ffffff"/>
 </div>
 
 ### 👨‍💻 About Me
 
-**Senior Odoo Architect** & **Open Source Contributor** with a passion for bridging the gap between robust ERP systems and Agentic AI.
+**Senior Odoo Architect** & **Integration Specialist** with a passion for connecting complex systems and pioneering Agentic AI.
 
-I specialize in **complex financial integrations** and **localization** within the Odoo ecosystem. As an active contributor to the **OCA (Odoo Community Association)**, I lead initiatives like the **Bill.com integration** for `l10n-usa` and maintain critical modules for Mexican localization.
+I have a proven track record of engineering **high-performance connectors** and **EDI solutions** for the Odoo ecosystem. My work bridges the gap between ERPs and external platforms, ensuring seamless data synchronization for enterprise environments.
 
-Beyond ERPs, I am pioneering the **Model Context Protocol (MCP)** to build intelligent developer tools that empower AI agents to understand and refactor large codebases.
+- **🔄 Complex Migrations**: Expert in handling large-scale database migrations using **OpenUpgrade** and the **Odoo Upgrade** platform, ensuring data integrity across major version jumps.
 
-- 🔭 **Current Focus**: Architecting scalable financial synchronizations for Odoo (OCA/l10n-usa) and building AI-powered migration tools.
+* **📦 Logistics & Delivery**: Authored the **EasyPost connector** for the **OCA** (`delivery-carrier`), streamlining shipping operations for community users.
+* **🛍️ E-Commerce & EDI**: Architected robust, high-volume integrations for **Shopify** and **Rithum (formerly ChannelAdvisor)** in private enterprise projects.
+* **💰 Finance**: Lead architect for the **Bill.com integration** (`l10n-usa`), automating AP/AR workflows for US companies.
+
+Beyond standard development, I am pushing the boundaries of developer tooling by building **Model Context Protocol (MCP)** servers that empower AI agents to understand and refactor Odoo codebases.
+
+- 🔭 **Current Focus**: Architecting scalable financial synchronizations and building AI-powered migration tools.
 - 🌱 **Exploring**: Advanced RAG patterns for code analysis and **Odoo Owl** framework optimizations.
-- 🤝 **Community**: Active maintainer in `OCA/l10n-usa` and `OCA/l10n-mx`.
+- 🤝 **Community**: Active maintainer in `OCA/l10n-usa` and `OCA/delivery-carrier`.
 - ⚡ **Philosophy**: "Automate the boring, architect the complex."
 
 ---
@@ -28,7 +34,7 @@ Beyond ERPs, I am pioneering the **Model Context Protocol (MCP)** to build intel
   <!-- Frontend & AI -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MCP-00B4D8?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-017E84?style=flat-square&logo=openai&logoColor=white" />
   <br/>
   <!-- DevOps -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -42,7 +48,7 @@ Beyond ERPs, I am pioneering the **Model Context Protocol (MCP)** to build intel
 
 <div align="center">
   <a href="PORTFOLIO.md">
-    <img src="https://img.shields.io/badge/📂_View_Full_Portfolio-0077B6?style=for-the-badge&logo=read-the-docs&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/📂_View_Full_Portfolio-714B67?style=for-the-badge&logo=read-the-docs&logoColor=white" height="40" />
   </a>
 </div>
 
@@ -59,8 +65,8 @@ Beyond ERPs, I am pioneering the **Model Context Protocol (MCP)** to build intel
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoniodavid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00B4D8&icon_color=0077B6" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniodavid&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=0d1117&title_color=00B4D8" height="180" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antoniodavid&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=714B67&text_color=212529&icon_color=017E84" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniodavid&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=714B67&text_color=212529" height="180" alt="Languages" />
 </div>
 
 ---
