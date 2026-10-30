@@ -54,17 +54,17 @@ The existing README contains stale or overstated claims and points to a missing 
 ## Tasks
 
 - [x] T1 — PR1 semantic site baseline committed as `ae1af88` (~385 lines); staged-tree `python -m unittest discover -s tests` passed (4 tests).
-- [ ] T2 — Commit PR2: core layout, responsive/accessibility styles and related tests (~368); stack on T1, retarget after T1 merges.
+- [x] T2 — PR2 layout/accessibility committed as `c333d97` (~376 lines); staged-tree `python -m unittest discover -s tests` passed (6 tests).
 - [ ] T3 — Commit PR3: OCA/contact/footer styles (~99); stack on T2, retarget after T2 merges.
 - [ ] T4 — Publish the tested site files to the authorized Pages repository after PR3 merges; use `gh` without token variables or SSH and record the commit/build/live-page evidence.
 - [ ] T5 — Deliver PR4: profile README refresh and its regression test (~124), after Pages publication.
 
 ## Progress
 
-- PR1 committed as `ae1af88`; its staged-tree verification passed 4 tests. The full candidate previously passed 7 tests.
-- PR1 branch: `feat/portfolio-site`; remaining source slices are unstaged, and unrelated `.atl/`, `.codegraph/`, `.hallmark/` remain preserved.
+- PR1 `ae1af88` and PR2 `c333d97` are committed; their staged-tree verification passed 4 and 6 tests. The full candidate previously passed 7 tests.
+- PR2 branch: `feat/portfolio-site-02-layout`; remaining source slices are unstaged, and unrelated `.atl/`, `.codegraph/`, `.hallmark/` remain preserved.
 - Running count: 976 authored changed lines; the selected PR slices are estimates and will be recounted after task-document progress updates.
-- Next: build and test PR2 on a child branch; continue the ordered stack, publish/verify Pages after PR3, then deliver the README slice.
+- Next: build and test PR3 on a child branch; continue the ordered stack, publish/verify Pages after PR3, then deliver the README slice.
 
 ## Relevant Files
 
