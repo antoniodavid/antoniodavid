@@ -1,0 +1,56 @@
+/* Hallmark · v2.0.0 · shape: Index · genre: editorial · theme: Formwork, dealt 2/3 · hero: Banner · job: review work, then contact · nav: compact work index · footer: contact links · signature: three language-specific project rows · material: verified facts, no pictures */
+/* Critique: chose a site-board palette and project ledger over a generic cream-and-serif portfolio; orange marks actions and open review only. */
+
+:root {
+  color-scheme: light;
+  scrollbar-color: var(--color-muted) var(--color-paper-2);
+  --color-paper: #d0cdc5;
+  --color-paper-2: #c2beb6;
+  --color-plate: #e4e1da;
+  --color-plate-ink: #f5f3ee;
+  --color-ink: #1b1b19;
+  --color-ink-2: #3b3a37;
+  --color-muted: #514f4a;
+  --color-rule: #918d85;
+  --color-accent: #f26424;
+  --color-accent-deep: #712406;
+  --color-accent-ink: #1b1b19;
+  --color-focus: #7f2d0a;
+  --font-display: Impact, "Arial Narrow", "Liberation Sans Narrow", sans-serif;
+  --font-body: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --container: 76rem;
+  --gutter: clamp(1.25rem, 5vw, 4rem);
+  --section-space: clamp(4.5rem, 10vw, 8rem);
+  --rule-hair: 1px;
+  --rule-bar: 3px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  overflow-x: clip;
+}
+
+html {
+  scroll-behavior: smooth;
+  background: var(--color-paper);
+}
+
+body {
+  min-width: 320px;
+  margin: 0;
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.55;
+}
+
+a {
+  color: inherit;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.2em;
+}
