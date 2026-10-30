@@ -1,10 +1,36 @@
 from html.parser import HTMLParser
 from pathlib import Path
+import re
 import unittest
 
 
 ROOT = Path(__file__).resolve().parents[1]
 
+
+def css_color(styles, token):
+    match = re.search(rf"--{token}:\s*(#[0-9a-fA-F]{{6}})\s*;", styles)
+    if match is None:
+        raise AssertionError(f"Missing color token --{token}")
+    value = match.group(1).lstrip("#")
+    return tuple(int(value[index : index + 2], 16) for index in (0, 2, 4))
+
+
+def relative_luminance(color):
+    channels = []
+    for channel in color:
+        value = channel / 255
+        channels.append(
+            value / 12.92 if value <= 0.04045 else ((value + 0.055) / 1.055) ** 2.4
+        )
+    return sum(
+        weight * channel
+        for weight, channel in zip((0.2126, 0.7152, 0.0722), channels)
+    )
+
+
+def contrast_ratio(first, second):
+    lighter, darker = sorted((relative_luminance(first), relative_luminance(second)), reverse=True)
+    return (lighter + 0.05) / (darker + 0.05)
 
 
 class PortfolioMarkup(HTMLParser):
@@ -104,6 +130,19 @@ class PortfolioTests(unittest.TestCase):
         self.assertNotIn("merged", billcom_item["text"])
         self.assertNotIn("lead architect", billcom_item["text"])
 
+    def test_deep_accent_text_meets_normal_text_contrast_on_both_papers(self):
+        accent = css_color(self.styles, "color-accent-deep")
+        for paper_token in ("color-paper", "color-paper-2"):
+            with self.subTest(background=paper_token):
+                paper = css_color(self.styles, paper_token)
+                self.assertGreaterEqual(contrast_ratio(accent, paper), 4.5)
+
+    def test_styles_support_responsive_keyboard_and_reduced_motion_use(self):
+        self.assertTrue(self.styles.strip(), "The site stylesheet should exist.")
+        self.assertIn(":focus-visible", self.styles)
+        self.assertIn("prefers-reduced-motion", self.styles)
+        self.assertIn("@media", self.styles)
+        self.assertNotIn("transition: all", self.styles.lower())
 
     def test_static_page_has_no_remote_assets_or_unneeded_script(self):
         tags = [tag for tag, _ in self.parser.elements]
