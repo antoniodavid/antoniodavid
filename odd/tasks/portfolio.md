@@ -41,9 +41,9 @@ The existing README contains stale or overstated claims and points to a missing 
 ## Delivery Strategy
 
 - Strategy: `ask-on-risk`; the user selected `stacked-to-main` on 2026-10-30.
-- Current candidate: 976 authored lines (898 additions + 78 deletions), including this task document.
-- One reviewable slicing pass: PR1 semantic page + base CSS/tests + this doc (~385); PR2 layout/accessibility CSS + tests (~368); PR3 OCA/contact/footer CSS (~99); PR4 README + its regression test (~124).
-- Stack order: PR1 → PR2 → PR3, each retargeted to `main` after its parent merges; publish Pages after PR3, then deliver PR4.
+- Current candidate: 2,148 authored lines (1,793 additions + 355 deletions) including the task document and the redesign work unit `0a89b42`.
+- The earlier PR1/PR2/PR3 slices preceded the redesign; re-plan the slices against the rewritten site before any push. Publication still needs fresh user authorization.
+- Stack order remains PR1 → PR2 → PR3, each retargeted to `main` after its parent merges; publish Pages after the site slices, then deliver the README slice.
 
 ## Acceptance Criteria
 
@@ -61,23 +61,24 @@ The existing README contains stale or overstated claims and points to a missing 
 - [ ] T5 — After explicit authorization for `status:approved` on the exact issue, push/open the stacked PRs (no merge).
 - [ ] T6 — Publish the tested site files to the authorized Pages repository after PR3 merges; use `gh` without token variables or SSH and record the commit/build/live-page evidence.
 - [ ] T7 — Deliver PR4: profile README refresh and its regression test (~124), after Pages publication.
-- [x] T8 — Redesign the site from the verified GitHub audit: editorial workbench direction, merge wall, six projects, OCA ledger, numbers, method, timeline, toolbox, contact. `site/index.html` and `site/styles.css` rewritten; no JavaScript or remote assets.
-- [x] T9 — Refresh local README copy: replace the broken `odoo-language-server` entry with `odoo.nvim` and Conecta, add the ten-merged-change OCA link, and keep the regression test. Delivery remains tracked by T7.
-- [x] T10 — Fix the two findings from the Lighthouse audit: raise the featured project stat-label contrast and align the brand link accessible name with its visible text.
+- [x] T8 — Redesign the site from the verified GitHub audit: editorial workbench direction, merge wall, six projects, OCA ledger, numbers, method, timeline, toolbox, contact. `site/index.html` and `site/styles.css` rewritten; committed as `0a89b42`.
+- [x] T9 — Refresh local README copy: replace the broken `odoo-language-server` entry with `odoo.nvim` and Conecta, add the ten-merged-change OCA link, and keep the regression test; committed as `0a89b42`. Delivery remains tracked by T7.
+- [x] T10 — Fix the two findings from the Lighthouse audit: raise the featured project stat-label contrast and align the brand link accessible name with its visible text; committed as `0a89b42`.
 
 ## Progress
 
 - PR1 `ae1af88`, PR2 `c333d97`, and PR3 `7097ae0` are committed; staged-tree verification passed 4, 6, and 6 tests. The full candidate previously passed 7 tests.
-- PR3 branch: `feat/portfolio-site-03-oca`; README remains unstaged, and unrelated `.atl/`, `.codegraph/`, `.hallmark/` remain preserved.
-- Running count: 976 authored changed lines; the selected PR slices are estimates and will be recounted after task-document progress updates.
+- PR3 branch: `feat/portfolio-site-03-oca`; README and the redesign are committed in `0a89b42`, and unrelated `.atl/`, `.codegraph/`, `.hallmark/` remain untracked and preserved.
+- Running count: 2,148 authored changed lines across the portfolio work; the redesign replaced most of the earlier site source, so recount the slices before opening PRs.
 - PR preflight: the base repo has issues enabled and actor permission `ADMIN`, but no issues, no `.github` YAML issue form, and no `status:approved` or `type:*` labels; no write occurred.
 - The feature form was read back byte-for-byte from `main`; labels `status:approved`, `type:feature`, and `type:docs` were created and confirmed. No issue has been confirmed.
 - A complete open/closed search for `portfolio OR website OR README` returned zero candidates.
 - A later exact-title lookup and full issue listing before the create attempt both returned 0 matches / 0 issues. The single `gh issue create` attempt returned no verifiable identity; the immediate post-attempt full issue listing still returned 0 issues. No further GitHub mutation was attempted; diagnose or get user direction before any new create attempt.
-- Next: resolve the unknown issue-create outcome with the user; only after an issue identity is confirmed, request issue-specific approval-label authorization before pushing/opening the stack.
+- Next: decide with the user whether to publish; resolve the unknown issue-create outcome first, then request issue-specific approval-label authorization before pushing/opening any stack.
 - Redesign evidence: `python -m unittest discover -s tests -v` passed 10 tests on 2026-10-30. Chrome DevTools checked 1440×1000 and 390×844 with no horizontal overflow; the mobile hero stat strip appears only under 60rem.
 - Lighthouse on the local page: mobile 100 accessibility / 100 best practices / 100 SEO / 100 agentic browsing; desktop the same, 54 audits passed and 0 failed in both runs.
-- Current tree versus `7476731`: 2,148 authored changed lines, including the task document. The redesign is implemented locally and is not pushed or published.
+- The redesign is committed locally as `0a89b42`; it is not pushed or published.
+- Engram mirror pending: `mem_save` refused with `ambiguous_project` because the server process cwd is the parent workspace. This local document is authoritative; retry the mirror from the repository workspace or after adding repo-local Engram config.
 
 ## Log
 
